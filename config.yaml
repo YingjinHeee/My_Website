@@ -10,13 +10,13 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hello, 
+    title: Hello, World! Here is Yingjin!
   blog: {}
   contact:
     address:
-      - city: London,
+      - city: London
         country: UK
-        street: Grove End Road
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (123) 456-7890 x12345
+      - phone: (0) 7549068926
         title: Phone
   custom_css: []
   custom_js: []
@@ -82,37 +82,33 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Where data, finance and strategy meet
+        title: Academic Background
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Data-driven decision-making
+        title: Professional Experience
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Big world outside the campus
+        title: Extracurricular Experience
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Offer effots for a better community
+        title: Social Impact
         url: blogs/ipsum
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        subtitle: Refresh minds and network
+        title: Interets& hobby
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+        subtitle: Oops, there is nothing more
+        title: Other information
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Grow Business \n Anneal data related skills \n  
+    Innovate for entrenpreneurship \n Help minoriteis \n"
+    title: Yingjin's Goal
     url: blogs
