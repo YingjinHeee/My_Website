@@ -73,7 +73,7 @@ params:
       - name: Generic Blog
         url: blogs/magna
       - name: Elements
-         url: elements.html
+        url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
