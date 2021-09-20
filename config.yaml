@@ -8,9 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hello, here is Yingjin! Welcome to my page!
+      Hello, here is Yingjin He and welcome to my page!
+    title: Yingjin He
   blog: {}
   contact:
     address:
