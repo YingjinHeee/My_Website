@@ -1,6 +1,6 @@
 baseURL: https://yingjinhe.netlify.app/
 languageCode: en-us
-title: Simon
+title: Portfolio web for Yingjin He
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -72,8 +72,8 @@ params:
         url: blogs
       - name: Generic Blog
         url: blogs/magna
-      # - name: Elements
-      #   url: elements.html
+      - name: Elements
+         url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
